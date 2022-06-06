@@ -1,0 +1,4 @@
+git commit -m "commit teste"
+[master (root-commit) e7b902c] commit teste
+ 1 file changed, 1 insertion(+)
+ create mode 100644 readme.md
